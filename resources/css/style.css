@@ -1,4 +1,7 @@
-background-color: black; 
+body{
+     background-color: black;
+     text-align: center;
+}
 
 h1{
    font-family: verdana;
