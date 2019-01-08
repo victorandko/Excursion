@@ -7,5 +7,33 @@ h1{
    font-family: verdana;
    font-weight: normal;
    font-size: 50px;
-   color: Red
+   color: white;
+   text-align: centered;
+}
+
+h2{
+   font-family: verdana;
+   font-weight: 300;
+   font-size: 42px;
+   color: white;
+}
+
+p{
+  font-family: verdana;
+  font-size: 21px;
+  color: grey;
+
+}
+
+#Corporation{
+             font-family: verdana;
+             font-size: 21px;
+             text-align: right;
+             color: grey;
+
+}
+
+#link{
+      color: aquamarine;
+      font-size: 16px;
 }
